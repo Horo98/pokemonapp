@@ -1,0 +1,9 @@
+.card-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .card-content-wrapper {
+    text-align: center;
+  }
